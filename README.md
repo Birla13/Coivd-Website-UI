@@ -3,4 +3,5 @@ UI/ UX Website design for covid
 
 
 
-![Covid](https://user-images.githubusercontent.com/88242631/236618269-6f2e5b51-415c-445d-88ee-f0241b0b6ca0.svg)
+
+<img width="1440" alt="Covid" src="https://user-images.githubusercontent.com/88242631/236639668-6226efa8-1b66-45d1-9738-6cd80eda6bc9.png">
